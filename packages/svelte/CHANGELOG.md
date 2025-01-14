@@ -1,5 +1,11 @@
 # svelte
 
+## 5.17.5
+
+### Patch Changes
+
+- feat: allow const tag inside `svelte:boundary` ([#14993](https://github.com/sveltejs/svelte/pull/14993))
+
 ## 5.17.4
 
 ### Patch Changes
